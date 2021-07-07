@@ -22,6 +22,11 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 3. After you are finished please copy the review questions into your .txt file and answer them
 4. don't forget to add, commit and push your changes.
 
+my codepen matching brit's codepen
+
+https://codepen.io/puzzleclick/pen/gOWrLMK
+
+
 
 ## Task 3: Stretch
 Stretch Review questions: 
@@ -41,3 +46,41 @@ Stretch Git Tasks
 - [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
 
 
+
+    1. What is Semantic HTML? -- An HTML tag that describes what it is doing.
+    2. What is HTML used for? -- For shaping websites and filling in the content we see on a website.
+    3. What is an attribute and where do we put it? -- Attributes go at the beginning of an opening tag and modifies the element.
+    4. What is the h1 tag used for? How many times should I use it on a page? -- H1 tag is the main headline tag in our html.
+    5. Name two tags that have required attributes <img src> and <a href>
+    6. What do we put in the head of our HTML document? -- <Main>
+    7. What is an id? -- An item we use to specify a unique html id.
+    8. What elements can I add an id to? -- Header elements
+    9. How many times can I use the same id on a page? -- Only once
+    10. What is a class? -- A class is an extension to simplify our code and group a cluster of words together.
+    11. What elements can I add a class to? -- Sections
+    12. How many times can I use the same class on a page? -- As many times as we want.
+    13. How do I get my link to open in a new tab? -- _blank 
+    14. What is the alt attribute in the image tag used for? For describing in words what the image contains.
+    15. How do I reference an id? -- #idname
+    16. What is the difference between a section and a div
+    17. What is CSS used for? -- cascading style sheets, is used for the presentation of a website 
+    18. How to we select an element? Example - every h2 on the page
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    20. How do we select classes in CSS? -- .classname
+    21. How do we select a p element with a single class of “human””? -- .human
+    22. What is a parent child selector? When would this be useful? -- parent child selectors are groupings within a larger bundle, it is useful whem selecting and changing their styles.
+    23. How do you select all links within a div with the class of sidebar? -- .sidebar
+    24. What is a pseudo selector?
+    25. What do we use the change the spacing between lines? -- margin?
+    26. What do we use to change the spacing between letters?
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+    28. How do I add a 1px border around my div that is dotted and black? -- <div style="border: dotted 1px black" id="mydiv">content</div> 
+    29. How do I select everything on the page? -- With the '*' command
+    30. How do I write a comment in CSS? -- /* */
+    31. How do I find out what file I am in, when I am using the command line? -- pwb, helps us retrace our steps.
+    32. Using the command line - how do I see a list of files/folders in my current folder?
+    33. How do I remove a file via the command line? Why do I have to be careful with this? -- rm -r, it deletes all files inside the directory without a prompt so we could lose a lot of work.
+    34. Why should I use version control? -- To edit and change code shared with others.
+    35. How often should I commit to github? -- Everytime we change something we want to save.
+    36. What is the command we would use to push our repo up to github? -- git push -u origin jacob-roddy
+    37. Walk me through Lambda's git flow. -- Fork, copy git, navigate terminal with cd, clone it with git clone <repo name>, branch it with git checkout -b, open vs code with code ., git add ., git commit -m "descirbe what you did", and then git push -u origin jacob-roddy.
